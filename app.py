@@ -43,10 +43,13 @@ def home():
         f'Temperature Observations (TOBS) for the previous year API: <a href="{url}api/v1.0/tobs" target="_blank">{url}api/v1.0/tobs</a><br><hr></hr>'
         f'<h2> Dynamic API </h2>'
         f'<h3>From selected date to the last date:</h3>'
-        f'Minimum, Maximum and Average of Temperature API : {url}api/v1.0/yyyy-mm-dd'
+        f'Minimum, Maximum and Average of Temperature API : {url}api/v1.0/yyyy-mm-dd<br>'
+        f'Example : <a href="{url}api/v1.0/2017-01-01" target="_blank">{url}api/v1.0/2017-01-01</a>'
         f'<h3>From selected date to the selected date:</h3>'
         f'Minimum, Maximum and Average of Temperature API : {url}/api/v1.0/start date/end date<br>'
-        'Note: format(yyyy-mm-dd)'
+        f'Example : <a href="{url}api/v1.0/2016-10-01/2017-05-01" target="_blank">{url}api/v1.0/2016-10-01/2017-05-01</a><br>'
+        '<br>Note: format(yyyy-mm-dd)<br>'
+        'API only contains data from 2016-09-01 to 2017-08-23'
     )
 
 
