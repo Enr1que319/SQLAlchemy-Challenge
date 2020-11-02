@@ -141,8 +141,9 @@ The schema of the data is as follows:
 
     [ 
       {
-        "date": "date",
-        "tobs": "float",
+        "Avg Temperature": "float",
+        "Max Temperature": "float",
+        "Min Temperature": "float",
       }
     ]
 
