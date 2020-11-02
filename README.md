@@ -41,11 +41,11 @@ SQLite Database
 |   tobs   |  `Float`  |
 
 
-id -> Registry Identification Number
-station -> Station Code
-date -> Record Date
-prcp -> Precipitation Measurement
-tobs -> Temperature Measurement
+- id -> Registry Identification Number
+- station -> Station Code
+- date -> Record Date
+- prcp -> Precipitation Measurement
+- tobs -> Temperature Measurement
 
 
 #### Station Table
@@ -58,6 +58,15 @@ tobs -> Temperature Measurement
 |   latitude   |  `Float`  |
 |   longitude  |  `Float`  |
 |   elevation  |  `Float`  |
+
+
+- id -> Station Identification Number
+- station -> station code
+- name -> station name
+- latitude -> station latitude
+- longitude -> station longitude
+- elevation -> station elevation
+
 
 -------------------------------
 This project consist in making an API that contains data about climate Honolulu, Hawaii
