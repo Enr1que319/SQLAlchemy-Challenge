@@ -72,22 +72,23 @@ SQLite Database
 For this analysis, the information from the SQL database that was explained previously was used. This can be found in the file called 'climate_starter.ipynb'.
 The analysis was centralized in several stages:
 
-[![](Resources/img/1.jpg)]()   
+[![](Resources/img/1.png)]()   
 
 - In this graph you can see the behavior of rainfall over time, in 2016 September was the most active month and in 2017 the most active months were February, April and October. This analysis can be made more specific to find the relationship between months and years.
 
 + It was determined that:
- + The station "WAIHEE 837.5, HI US" has the highest number of observations
- + The lowest temperature recorded for the station "WAIHEE 837.5, HI US" is: 54.0
- + The highest temperature recorded for the station "WAIHEE 837.5, HI US" is: 85.0
- + The average temperature for the station "WAIHEE 837.5, HI US" is: 71.66
+    + The station "WAIHEE 837.5, HI US" has the highest number of observations
+    + The lowest temperature recorded for the station "WAIHEE 837.5, HI US" is: 54.0
+    + The highest temperature recorded for the station "WAIHEE 837.5, HI US" is: 85.0
+    + The average temperature for the station "WAIHEE 837.5, HI US" is: 71.66
 
-[![](Resources/img/2.jpg)]()   
+[![](Resources/img/2.png)]()   
 
 - An analysis of the WAIHEE station was made in which the temperature and frequency are related, here it can be observed that the frequency accumulates between the 75 and 80 range of the temperature
 
 
 ## REST API
+
 
 
 -------------------------------
