@@ -7,7 +7,7 @@
 This project is made to be able to give future references to people who plan to travel to Honolulu Hawaii or for people who want information about the weather in the place. It is composed of two parts that are:
 - An analysis of the climate in the area
 + A REST API from which you can make inquiries about the information
-    + Here you can see the API [Surfers Hawaii API](https://enr1qu319-api-hawaii-climate.herokuapp.com "API")
+    + Here you can see the API -> [Surfers Hawaii API](https://enr1qu319-api-hawaii-climate.herokuapp.com "API")
 
 Note: More information about each one below
 
