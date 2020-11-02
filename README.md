@@ -1,6 +1,6 @@
 # SQLAlchemy-Challenge
 
-[![](Resources/img/hawaii.png)]()        
+[![](Resources/img/hawaii.jpg)]()        
 
 ### Introduction
 
