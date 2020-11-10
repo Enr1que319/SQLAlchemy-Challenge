@@ -135,7 +135,7 @@ The schema of the data is as follows:
 #### Dynamic API
 
 In this REST API you have to write the range of dates from which you want to obtain the data, the information that it calculates in the desired range is the maximum and minimum temperature that there was as well as the average of this.
-There are an example in the Home web page that teach how to use the API
+There are an example in the Home web page that teach how to use the API.
 
 The schema of the data is as follows:
 
